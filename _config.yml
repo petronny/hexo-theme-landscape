@@ -13,6 +13,7 @@ fancybox: true
 sidebar: right
 widgets:
 - github_activity
+- weibo
 - recent_posts
 - tagcloud
 - archive
