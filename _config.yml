@@ -17,6 +17,7 @@ widgets:
 - recent_posts
 - tagcloud
 - archive
+- busuanzi
 #- tag
 #- category
 
