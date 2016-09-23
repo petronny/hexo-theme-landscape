@@ -12,10 +12,10 @@ fancybox: true
 # Sidebar
 sidebar: right
 widgets:
+- tagcloud
 - github_activity
 - weibo
 - recent_posts
-- tagcloud
 - archive
 - busuanzi
 #- tag
