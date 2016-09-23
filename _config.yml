@@ -12,6 +12,7 @@ fancybox: true
 # Sidebar
 sidebar: right
 widgets:
+- github_activity
 - recent_posts
 - tagcloud
 - archive
